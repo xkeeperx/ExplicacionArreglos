@@ -5,5 +5,6 @@ public class Main {
         Date fecha = new Date();
         System.out.println("DIASSSSSs "+fecha.getTime());
         System.out.println("Mes "+fecha.getMonth());
+        System.out.println("Mes2 "+fecha.getMonth());
     }
 }
